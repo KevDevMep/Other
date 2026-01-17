@@ -1,4 +1,4 @@
-There are many ways to expand the House.
+<p>There are many ways to expand the House.</p>
 <table>
   <tr>
     <td>&nbsp;</td>
@@ -34,4 +34,4 @@ There are many ways to expand the House.
     <td>~100k Pop per Seat</td>
   </tr>
 </table>
-All redistricting maps are done in DRA 2020. Then combined together in QGIS
+<p>All redistricting maps are done in DRA 2020. Then combined together and custom printed in QGIS</p>
