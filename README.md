@@ -8,6 +8,7 @@
     <td>2CR</td>
     <td>GC</td>
     <td>HWR</td>
+    <td>200K</td>
     <td>1776</td>
     <td>100K</td>
   </tr>
@@ -19,19 +20,21 @@
     <td>872</td>
     <td>1000</td>
     <td>1146</td>
+    <td>1656></td>
     <td>1776</td>
     <td>3308</td>
   </tr>
   <tr>
     <td>Descripion</td>
-    <td></td>
+    <td>Base</td>
     <td>Smallest State</td>
     <td>Cube Root of the Popluation</td>
     <td>Cube Root of the 2 * Popluation</td>
     <td>Grand Congress</td>
     <td>Half Wyoming Rule</td>
-    <td></td>
-    <td>~100k Pop per Seat</td>
+    <td>~200K Pop per District</td>
+    <td>America</td>
+    <td>~100k Pop per District</td>
   </tr>
 </table>
 <p>All redistricting maps are done in DRA 2020. Then combined together and custom printed in QGIS</p>
