@@ -1,4 +1,5 @@
-<p>There are many ways to expand the House.</p>
+<p>All district maps are done in DRA 2020. Then combined together and custom printed in QGIS.</p>
+<p>There are many ways to expand the House. Here are some:</p>
 <table>
   <tr>
     <td>&nbsp;</td>
@@ -37,4 +38,5 @@
     <td>~100k Pop per District</td>
   </tr>
 </table>
-<p>All district maps are done in DRA 2020. Then combined together and custom printed in QGIS.</p>
+<p>Datasets: Total Population 2020, Voting Age Pop 2020 & President 2020/2024</p>
+
