@@ -39,4 +39,5 @@
   </tr>
 </table>
 <p>Datasets: Total Population 2020, Voting Age Pop 2020 & President 2020/2024</p>
+<p>Partisan Lean: (2*(Pres24 + 0.0148) + (Pres20 - 0.0446)) / 3</p>
 
